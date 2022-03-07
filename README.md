@@ -1,1 +1,6 @@
-# Subway
+# Subway March 6th
+https://restaurants.subway.com/canada/ab/calgary/1216-16th-ave-nw?utm_source=yxt-goog&utm_medium=local&utm_term=acq&utm_content=3844&utm_campaign=evergreen-2020
+*I decided to chose subway canadas main website as i thought it would be original and probably pretty diffrent from wahat everyone else was choosing, subway seems to have a pretty basic set up at first glance but the more i had to go into it and look in every section to mark things down i noticed its actually quite big with alot of smaller links built in.
+*I do think the website is well structured for what it is and what its selling you but the things i would change is for example there is multiparts with the same link or same common sections on the same page like there was two diffrent buy gift card tabs and two diffrenet catoring tabs which made things kind of seem very pushy and un organized just buy out product tuype set up.
+*I learned fron studying this structure would be placement of buttons and sections, this one was kinda all over the place it would be a better wesbite if it was toned down a bit
+*I would be able to re create the nav menu which is just a few buttons using nav_link so people can just easily click on what they want to use.
